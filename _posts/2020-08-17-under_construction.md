@@ -7,4 +7,4 @@ tags: [demo]
 math: true
 ---
 
-Comming soon!
+Coming soon!
