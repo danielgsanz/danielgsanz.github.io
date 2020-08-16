@@ -51,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Madrid
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -132,23 +132,23 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
         -
-          label: Tags
+          label: Etiquetas
           url: /tabs/tags/
   -
     scope:
       path: categories
     values:
-      tab_active: Categories
+      tab_active: Categorías
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
         -
-          label: Categories
+          label: Categorías
           url: /tabs/categories/
   -
     scope:
@@ -158,7 +158,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
 
 
