@@ -9,7 +9,7 @@
   name: Inicio
   icon: "fas fa-home"
 -
-  name: Categorías
+  name: Categories
   icon: "fas fa-stream"
   path: tabs
   url: categories
