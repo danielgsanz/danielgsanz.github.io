@@ -141,7 +141,7 @@ defaults:
     scope:
       path: categories
     values:
-      tab_active: Categorías
+      tab_active: Categories
       location: Category
       breadcrumb:
         -
