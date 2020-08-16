@@ -1,5 +1,5 @@
 ---
-title: About
+title: Acerca de mi
 
 # The About page
 # v2.0
