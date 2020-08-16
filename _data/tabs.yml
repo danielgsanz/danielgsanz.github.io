@@ -8,16 +8,16 @@
 -
   name: Inicio
   icon: "fas fa-home"
--
-  name: Categories
-  icon: "fas fa-stream"
-  path: tabs
-  url: categories
--
-  name: "Etiquetas"
-  icon: "fas fa-tags"
-  path: tabs
-  url: tags
+#-
+#  name: Categories
+#  icon: "fas fa-stream"
+#  path: tabs
+#  url: categories
+#-
+#  name: "Etiquetas"
+#  icon: "fas fa-tags"
+#  path: tabs
+#  url: tags
 -
   name: "Archivos"
   path: tabs
