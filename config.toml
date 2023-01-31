@@ -1,0 +1,4 @@
+baseURL = 'https://danielgsanz.github.io/'
+languageCode = 'es-ES'
+title = 'My New Site'
+theme = 'LoveIt'
