@@ -17,8 +17,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Daniel Gómez Sanz"
   image = "images/avatar.png"
-  headline = "Data Engineer & Cloud Engineer"
-  bio = "Data Engineer & Cloud Engineer"
+  headline = "Data Engineer & Cloud Architect"
+  bio = "Data Engineer & Cloud Architect"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
