@@ -4,6 +4,6 @@
 	branch = stable
 
 [submodule "themes/LoveIt"]
-	path = themes/congo
+	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt
 	branch = stable
