@@ -48,6 +48,7 @@ enableCodeCopy = true
   showWordCount = false
   showComments = true
   # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
+  sharingLinks = ["twitter", "mastodon", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = true
