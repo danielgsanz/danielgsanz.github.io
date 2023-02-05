@@ -46,7 +46,7 @@ enableCodeCopy = true
   showTableOfContents = false
   showTaxonomies = false
   showWordCount = false
-  showComments = false
+  showComments = true
   # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
