@@ -4,7 +4,7 @@ title: "Data Lake vs Data Lakehouse vs Data Warehouse"
 date: 2023-02-04T19:22:56+01:00
 draft: false
 description: "Data Lake vs Data Lakehouse vs Data Warehouse"
-images: []
+tags: ['datalake', 'dataengineering']
 resources:
 - name: "datalake_datawarehouse"
   src: "datalake_datawarehouse.jpg"
