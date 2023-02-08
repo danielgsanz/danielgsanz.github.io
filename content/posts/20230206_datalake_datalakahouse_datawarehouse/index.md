@@ -26,7 +26,7 @@ Un Data Lake es un sistema de almacenamiento de **datos no estructurados o semi-
 
 Una arquitectura basada en Data Lake suele tener un **coste reducido**, es **fácil de usar** y permite una gran **flexibilidad en la toma de decisiones**, lo que lo hace ideal para organizaciones que quieran explorar nuevos insights de los datos a través de su analítica.
 
-Por contra, suele tener un **peor rendimiento analítico** para determinados casos de uso comparado con Data Warehouse, no siempre disponible de modos de conexión con herramientas de BI convencionales, y los **datos no garantizan la misma consistencia que en el caso anterior**.
+Por contra, suele tener un **peor rendimiento analítico** para determinados casos de uso comparado con Data Warehouse, no siempre dispone de modos de conexión con herramientas de BI convencionales, y los **datos no garantizan la misma consistencia que en el caso anterior**.
 
 ## Data Lakehouse
 
@@ -40,4 +40,4 @@ Quizás, la principal desventaja es que puede ser el **más complejo** de las tr
 
 # Comparación final
 
-En resumen, cada una de estas tecnologías tiene sus propias fortalezas y debilidades, y es importante elegir la que mejor se adapte a las necesidades de la organización. Data Warehouse es ideal para el análisis detallado de las operaciones, el Data Lake es ideal para la exploración de nuevos insights de los datos, y el Data Lakehouse puede ser la mejor opción de compromiso para cubrir todas las necesidades analíticas de la compañía pese a su barrera de entrada inicial. 
+En resumen, cada una de estas tecnologías tiene sus propias fortalezas y debilidades, y es importante elegir la que mejor se adapte a las necesidades de la organización. El Data Warehouse es ideal para el análisis detallado de las operaciones, el Data Lake es ideal para la exploración de nuevos insights de los datos, y el Data Lakehouse puede ser la mejor opción de compromiso para cubrir todas las necesidades analíticas de la compañía pese a su barrera de entrada inicial. 
